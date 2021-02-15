@@ -1,2 +1,13 @@
-# JSDojo
-JavaScript Dojo is a theme for Microsoft's Open-Source editor Visual Studios Code (aka VS-Code). JavaScript was the main focus for JSDojo when it was being developed, however; I am currently working on the support of other machine languages. DojoJS uses semantic highlighting, a feature that developers didn't have available to them when creating themes for VS Code before 2018. This is a contemporary theme, it looks good and feels good. Currently supported is HTML(And any other MarkUp languages), Markdown, CSS, JavaScript, JSON, dot-txt, dot-log, and as stated am currently working on adding support for more.
+# README
+## This is the README for your extension "JSDojo"
+You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+
+* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
+* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
+* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
+
+### For more information
+* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
+* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+
+**Enjoy!**
